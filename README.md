@@ -1,2 +1,2 @@
-# AndroidJamiltonDamasceno
- Curso de Android Avançado- Professor Jamilton
+Calculadora IMC
+Exercício do curso do Codans(Jamilton Damasceno): "Mentoria Android". Módulo: "Navegação, Atividades e
